@@ -1,5 +1,9 @@
+streamlit
 langgraph
 langchain
 langchain-openai
 langchain-chroma
+langchain-text-splitters
 chromadb
+openai
+tiktoken

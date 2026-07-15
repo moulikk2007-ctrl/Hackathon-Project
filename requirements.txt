@@ -1,0 +1,9 @@
+streamlit==1.46.1
+langgraph==0.2.67
+langchain==0.3.19
+langchain-openai==0.3.7
+langchain-chroma==0.2.2
+langchain-text-splitters==0.3.6
+chromadb==0.6.3
+openai==1.65.2
+tiktoken==0.9.0
